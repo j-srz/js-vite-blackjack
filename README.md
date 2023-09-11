@@ -3,7 +3,7 @@
 Pasos para ejecutar el proyecto
 
 1. Clonar repositorio
-2. Ejecutar ````npm install``
+2. Ejecutar ```npm install```
 3. Correr el server ```npm run server```
 
 ## Producción
